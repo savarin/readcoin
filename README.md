@@ -1,3 +1,3 @@
 # readcoin-rust
 
-![rewrite](rewrite.jpg)
+![cover](cover.jpg)
